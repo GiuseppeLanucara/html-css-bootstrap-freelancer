@@ -1,0 +1,14 @@
+header{
+    background-color: black;
+    height: 90px;
+    line-height: 90px;
+    color: white;
+}
+
+.green{
+    background-color: green;
+}
+
+img{
+    max-width: 100%;
+}
