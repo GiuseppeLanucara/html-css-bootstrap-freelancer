@@ -70,6 +70,14 @@ footer{
     color: white;
 }
 
+.dark {
+    color: #333333;
+}
+
+.blue {
+    color: #2C3E50;
+}
+
 @media screen and (min-width:768px) {
     #hamb {
         display: none;
