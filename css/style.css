@@ -5,10 +5,54 @@ header{
     color: white;
 }
 
-.green{
+#section-start {
     background-color: green;
+    color: white;
 }
 
-img{
+#avatar{
+    max-width: 200px;
+}
+
+img {
     max-width: 100%;
+}
+
+#section-start{
+    color: white;
+}
+
+.star{
+    font-size: xx-large;
+}
+
+.radious {
+    border-radius: 20px;
+}
+
+#about {
+    background-color: green;
+    color: white;
+}
+
+.widht{
+    width: 50%;
+}
+
+#location{
+    background-color: grey;
+    color: white;
+}
+
+.fit {
+    object-fit: contain;
+}
+
+.green{
+    color: green;
+}
+
+footer{
+    background-color: black;
+    color: white;
 }
