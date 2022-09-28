@@ -39,6 +39,10 @@ img {
     width: 50%;
 }
 
+.ms-inline {
+    display: inline-block;
+}
+
 #location{
     background-color: #3A546D;
     color: white;
@@ -80,6 +84,9 @@ footer{
 
 .btn {
     background-color: #1ABC9C;
+}
+
+.ms-no-brd {
     border: none;
 }
 
