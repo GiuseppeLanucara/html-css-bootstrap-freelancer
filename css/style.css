@@ -105,6 +105,18 @@ footer{
     box-shadow: none;
 }
 
+
+.st i::before
+.st i::after
+{
+    content: "";
+    display: inline-block;
+    width: 10%;
+    height: 4px;
+    background-color: white;
+    vertical-align: middle;
+}
+
 /* MEDIA QUERY */
 @media screen and (min-width:768px) {
     #hamb {
